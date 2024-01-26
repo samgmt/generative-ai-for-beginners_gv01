@@ -1,0 +1,7 @@
+name: mlai4
+channels:  
+ - defaults
+dependencies:  
+- python=Python 3.9.13  
+- openai  
+- python-dotenv
